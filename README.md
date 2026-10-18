@@ -1,4 +1,4 @@
-# wordle
+# termdle
 
 A Wordle clone for the Linux terminal. C17, ncurses, no network, no other
 dependencies. Pick a word length from 3 to 12 letters, guess the word.
